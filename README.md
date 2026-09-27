@@ -33,10 +33,6 @@ The page simulates a basic college student portal where a student can:
 
 - `student-portal.html` — the complete webpage (HTML + CSS in one file)
 
-## How to View
-
-Open `student-portal.html` directly in any web browser, or host it via [GitHub Pages](https://pages.github.com/) for a live link.
-
 ## Tech Used
 
 - HTML5
